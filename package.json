@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "dev": "npx directus start"
+  },
   "dependencies": {
     "pg": "^8.9.0"
   }
